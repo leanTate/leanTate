@@ -9,7 +9,6 @@
 
 </p>
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=leanTate&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leanTate&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leanTate&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
