@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lean</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [C-frontend](https://github.com/leanTate/c-frontend)
+- 🔭 I’m currently working on [portfolio](https://github.com/leanTate/portfolio.git)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-lean.web.app/](https://portfolio-lean.web.app/)
 
