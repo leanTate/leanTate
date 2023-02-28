@@ -1,5 +1,20 @@
-<h1 align="center">Hi 👋, I'm Lean</h1>
+<div>
+  <h1 align="center">Hi 👋, I'm Lean</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
+
+````
+                                                              ___           
+                                                             /  /\  ___     
+                                                            /  /:/ /__/\    
+                                                           /  /:/  \  \:\   
+                                                          /  /:/    \__\:\  
+                                                         /__/:/     /  /::\ 
+                                                         \  \:\    /  /:/\:\
+                                                          \  \:\  /  /:/__\/
+                                                           \  \:\/__/:/     
+                                                            \  \:\__\/      
+                                                             \__\/                    
+````                            
 
 - 🔭 I’m currently working on [portfolio](https://github.com/leanTate/portfolio.git)
 
